@@ -2,7 +2,7 @@
 
 :root {
   --fondo: #fef9f9;
-  --principal: C5E3C1;   
+  --principal: #C5E3C1;   
   --secundario: #e7d4b5; 
   --acento: #ffc7c7;       
   --texto: #2e2e2e;
@@ -230,4 +230,5 @@ footer {
     padding: 25px 20px;
   }
 }
+
 
